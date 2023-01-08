@@ -4,7 +4,7 @@ import java.util.GregorianCalendar;
 /**
  * This class represents an email with to, cc, bcc, subject, and body.
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Email implements java.io.Serializable {
 
