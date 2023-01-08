@@ -6,7 +6,7 @@ import java.util.Calendar;
 /**
  * This class uses Comparator for sorting emails by date
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class DateComparator implements Comparator<Email> {
 	
