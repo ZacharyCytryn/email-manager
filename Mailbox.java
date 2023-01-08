@@ -1,11 +1,3 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #5
- * CSE 214 Recitation 30
- */
-
 package emailManager;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -15,7 +7,7 @@ import java.io.*;
  * This class represents a mailbox, containing all folders with emails in them. It includes
  * methods to manipulate the mailbox based on user input. Contains the main method.
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Mailbox implements java.io.Serializable {
 	
