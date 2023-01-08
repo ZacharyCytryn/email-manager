@@ -1,11 +1,3 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #5
- * CSE 214 Recitation 30
- */
-
 package emailManager;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -14,7 +6,7 @@ import java.util.Collections;
 /**
  * This class represents a folder of emails and includes methods to manipulate the folders and what's inside of them
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Folder implements java.io.Serializable {
 	
